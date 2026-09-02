@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800" role="img" aria-label="Knowvel 約5,000万円の資金調達を実施">
+  <rect width="1200" height="800" fill="#1a1a1a" />
+  <circle cx="1080" cy="110" r="260" fill="#2EB67D" opacity="0.16" />
+  <circle cx="120" cy="720" r="210" fill="#2EB67D" opacity="0.10" />
+
+  <g text-anchor="middle" font-family="Inter, 'Helvetica Neue', Arial, sans-serif">
+    <text x="600" y="215" font-size="52" font-weight="800" letter-spacing="-2" fill="#ffffff">Know<tspan fill="#2EB67D">vel</tspan></text>
+
+    <text x="600" y="475" fill="#ffffff">
+      <tspan font-size="62" font-weight="500" opacity="0.82">約</tspan><tspan font-size="176" font-weight="800" letter-spacing="-4">5,000</tspan><tspan font-size="62" font-weight="500" opacity="0.82">万円</tspan>
+    </text>
+
+    <text x="600" y="600" font-size="38" font-weight="500" letter-spacing="6" fill="#ffffff" opacity="0.68">資金調達を実施</text>
+  </g>
+
+  <rect x="540" y="525" width="120" height="3" fill="#2EB67D" />
+</svg>
